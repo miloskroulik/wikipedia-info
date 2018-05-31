@@ -1,0 +1,9 @@
+name: 'wikipedia_info'
+type: module
+description: 'Wikipedia Info'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - node
+  - field
+  - wikipedia_client

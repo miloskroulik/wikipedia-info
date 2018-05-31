@@ -1,0 +1,35 @@
+<?php
+
+/**
+ * @file
+ * Contains wikipedia_info.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function wikipedia_info_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the wikipedia_info module.
+    case 'help.page.wikipedia_info':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Wikipedia Info') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function wikipedia_info_theme() {
+  return [
+    'wikipedia_info' => [
+      'render element' => 'children',
+    ],
+  ];
+}

@@ -1,0 +1,16 @@
+{
+  "name": "drupal/wikipedia_info",
+  "type": "drupal-module",
+  "description": "Wikipedia Info",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/wikipedia_info",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/wikipedia_info",
+    "source": "http://cgit.drupalcode.org/wikipedia_info"
+  },
+  "require": {
+    "urodoz/truncate-html": "@stable"
+  }
+}
