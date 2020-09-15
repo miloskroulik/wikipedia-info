@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T05:43:12.262Z" agent="5.0 (X11)" version="13.7.1" etag="dkpA-6s55G_rnuOFLYGp" type="github"><diagram id="XlPnYMuE0Zh3nBHj2ch1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-15T06:04:27.864Z" agent="5.0 (X11)" etag="CisLuyZ_oux4GXCv_XZP" version="13.7.1" type="github">
+  <diagram id="XlPnYMuE0Zh3nBHj2ch1" name="Page-1">
+    <mxGraphModel dx="920" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ed_RJwLWOPgdYtDj-aH7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="610" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ed_RJwLWOPgdYtDj-aH7-5" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ed_RJwLWOPgdYtDj-aH7-6" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ed_RJwLWOPgdYtDj-aH7-7" value="Klimakemp bude" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ed_RJwLWOPgdYtDj-aH7-8" value="Přijeď" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
